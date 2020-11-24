@@ -11,6 +11,9 @@
 **Description:**
 This tool parses the bam file and marks as unmapped a read with alignment length below a user-defined threshold. Reads are not filtered from the bam file but kept as unmapped.
 
+[Short alignment marking workflow](https://github.com/nygenome/nygc-short-alignment-marking/blob/master/Short_alignment_marking_workflow_v2.1.pdf)
+
+
 **Installation:**
 * Ubuntu
 ```
