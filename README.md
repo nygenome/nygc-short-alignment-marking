@@ -3,7 +3,7 @@
 ###Tool to mark short alignments in a bam file.
 
 * Version: 2.1
-* Author: Minita Shah, Anne-Katrin Emde, Andre Corvelo
+* Authors: Minita Shah, Anne-Katrin Emde, Andre Corvelo
 * Contact: mshah@nygenome.org
 
 # Manual
